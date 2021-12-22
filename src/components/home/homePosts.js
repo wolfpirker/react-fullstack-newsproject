@@ -37,6 +37,7 @@ const HomePosts = () => {
                             <img
                                 style={{ width: '100%', height: '200px' }}
                                 src={item.image}
+                                alt="rgrwgr"
                             />
                             <div className="author">
                                 <span>{item.author} -</span>
